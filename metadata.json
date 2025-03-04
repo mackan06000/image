@@ -1,0 +1,20 @@
+{
+    "name": "My Cool Token",
+    "symbol": "COOL",
+    "description": "A token with tax functionality",
+    "image": "https://raw.githubusercontent.com/your-username/your-repo/main/logo.png",
+    "attributes": [
+        {
+            "trait_type": "Tax Rate",
+            "value": "5%"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/your-username/your-repo/main/logo.png",
+                "type": "image/png"
+            }
+        ]
+    }
+} 
